@@ -5,7 +5,7 @@
 
 ![Rafael Watanabe GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelWatanabe94&theme=blue-green&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelWatanabe94&langs_count=8)](https://github.com/RafaelWatanabe94/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelWatanabe94&langs_count=8&theme=blue-green)](https://github.com/RafaelWatanabe94/github-readme-stats)
 
 <!---
 RafaelWatanabe94/RafaelWatanabe94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
