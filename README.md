@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript and Reactjs.
 - 📫 How to reach me rafael_jp5@live.com
 
-[![RafaelWatanabe94 GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelWatanabe94)](https://github.com/RafaelWatanabe94/github-readme-stats)
+[![RafaelWatanabe94 GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelWatanabe94)](https://github.com/RafaelWatanabe94/github-readme-stats&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelWatanabe94&langs_count=8)](https://github.com/RafaelWatanabe94/github-readme-stats)
 
