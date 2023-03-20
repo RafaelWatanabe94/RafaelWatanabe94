@@ -1,4 +1,4 @@
-Olá eu sou o  Rafael Watanabe!
+Olá eu sou o  Rafael Watanabe!👋
 
 ![Rafael Watanabe GitHub stats](https://github-readme-stats-alpha-ebon-83.vercel.app/api?username=RafaelWatanabe94&theme=blue-green&show_icons=true)
 
