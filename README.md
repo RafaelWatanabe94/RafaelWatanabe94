@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Rafael Watanabe
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Javascript and Reactjs.
-- 📫 How to reach me rafael_jp5@live.com
+Olá eu sou o  Rafael Watanabe!
 
 ![Rafael Watanabe GitHub stats](https://github-readme-stats-alpha-ebon-83.vercel.app/api?username=RafaelWatanabe94&theme=blue-green&show_icons=true)
 
